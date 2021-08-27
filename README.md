@@ -65,14 +65,11 @@ _[3]_
 
 ## What are the limitations of this 
 
-The [LGBTA WIKI](https://lgbta.wikia.org/wiki/Neopronouns) also includes 3 __Regional Nominative Pronouns__
-( A , Ou and Yo) 6 options in the __Other__ category:
-
+This specific pull request does not cover the  3 __Regional Nominative Pronouns__
+( A , Ou and Yo) and the following  6 options in the __Other__ category of the [LGBTA WIKI](https://lgbta.wikia.org/wiki/Neopronouns) 
 1. It
 2. One
 3. Alternating Pronouns
 4. No Pronouns/Pronoun Dropping
 5. Nounself Pronouns
 6. Emojiself Pronouns
-
-This specific pull request does not cover these :(
